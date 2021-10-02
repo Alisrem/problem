@@ -82,3 +82,12 @@ body
 {
     float: right;
 }
+h1
+{
+    color: red;
+    padding: 20px;
+}
+img{
+    width: 150px;
+    text-align: right;
+}
